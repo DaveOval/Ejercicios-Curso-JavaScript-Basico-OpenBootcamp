@@ -1,0 +1,26 @@
+{
+  "name": "ejercicio_01",
+  "version": "1.0.0",
+  "description": "Este es el primer ejercicio de Javascript con Node para Open Bootcamp",
+  "main": "index.js",
+  "scripts": {
+    "Saludar": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DaveOval/Ejercicios-Curso-JavaScript-Basico-OpenBootcamp.git"
+  },
+  "keywords": [
+    "Ejercicios",
+    "OpenBootcamp",
+    "first",
+    "project"
+  ],
+  "author": "Carlos David Vazquez Herrera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DaveOval/Ejercicios-Curso-JavaScript-Basico-OpenBootcamp/issues"
+  },
+  "homepage": "https://github.com/DaveOval/Ejercicios-Curso-JavaScript-Basico-OpenBootcamp#readme"
+}
