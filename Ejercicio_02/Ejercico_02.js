@@ -1,5 +1,3 @@
-
-
 const miNombre = "David";
 let miEdad = 23;
 let desarrollador = true;
